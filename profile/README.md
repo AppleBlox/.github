@@ -4,7 +4,7 @@
 
 # AppleBlox
 
-AppleBlox is a simple Roblox launcher designed for MacOS (and maybe windows?)
+AppleBlox is a simple Roblox launcher designed for MacOS.
 This organization holds all the repositories for the app (website, discordRPC server, client, etc...)
 
 [You can find the main repo here](https://github.com/AppleBlox/appleblox)
